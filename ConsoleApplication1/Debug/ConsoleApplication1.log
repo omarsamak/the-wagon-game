@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Programming\C++\G-tech\wagon visual studio\ConsoleApplication1\ConsoleApplication1\main.cpp(40,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programming\C++\G-tech\wagon visual studio\ConsoleApplication1\ConsoleApplication1\main.cpp(74,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Programming\C++\G-tech\wagon visual studio\ConsoleApplication1\ConsoleApplication1\main.cpp(23,18): warning C4101: 't': unreferenced local variable
+  Wagon.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> E:\Programming\C++\G-tech\wagon visual studio\ConsoleApplication1\Debug\ConsoleApplication1.exe
